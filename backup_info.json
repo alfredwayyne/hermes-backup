@@ -1,0 +1,19 @@
+{
+  "last_backup": "2026-08-25_2000",
+  "size_mb": 2.03,
+  "items": [
+    "memories/",
+    "skills/",
+    "cron/",
+    "platforms/",
+    "sessions/",
+    "config.yaml",
+    "SOUL.md",
+    "state.db",
+    "kanban.db",
+    "auth.json",
+    ".env",
+    "channel_directory.json",
+    "gateway_state.json"
+  ]
+}
